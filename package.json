@@ -1,0 +1,17 @@
+{
+  "name": "random-dog-image-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bhaskar Deb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http-server": "^14.1.1",
+    "node-fetch": "^3.3.2"
+  }
+}
