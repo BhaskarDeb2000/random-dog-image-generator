@@ -1,7 +1,7 @@
 {
   "name": "random-dog-image-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "generate random dog iamge",
   "main": "index.js",
   "type": "module",
   "scripts": {
