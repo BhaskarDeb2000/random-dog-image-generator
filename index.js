@@ -30,9 +30,9 @@ app.get("/", async (req, res) => {
                             color: white;
                             font-family: Arial, sans-serif;
                             align-items: center;
-														display: flex;
+			    display: flex;
                             justify-content: center;
-														flex-direction: column;
+			    flex-direction: column;
                         }
                         button {
                             background-color: #4CAF50;
